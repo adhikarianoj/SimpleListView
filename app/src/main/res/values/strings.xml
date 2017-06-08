@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplicationList</string>
+    <string name="title_activity_sun">Sun</string>
+    <string name="title_activity_mon">Mon</string>
+    <string name="title_activity_tue">Tue</string>
+    <string name="title_activity_wed">Wed</string>
+    <string name="title_activity_thur">Thur</string>
+    <string name="title_activity_fri">Fri</string>
+    <string name="title_activity_sat">Sat</string>
+</resources>
